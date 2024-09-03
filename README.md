@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Data Structures and Algorithms 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [https://www.linkedin.com/in/omnia-f-9214891b5/](https://www.linkedin.com/in/omnia-rady/)
+- 📫 How to reach me [(https://www.linkedin.com/in/omnia-rady/)]
 
 <!---
 AGX18/AGX18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
