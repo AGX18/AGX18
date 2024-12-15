@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AGX18 (a Student of Computer Systems and Software Engineering)
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Data Structures and Algorithms 
+- 🌱 I’m currently learning Web DEV
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/omnia-rady/)
 
